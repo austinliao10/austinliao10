@@ -3,7 +3,6 @@
 <!--
 **austinliao10/austinliao10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:## 
 
 Hey 👋, This is Austin Liao
 [![Gmail Badge](https://img.shields.io/badge/-austinliao1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:austinliao1@gmail.com)](mailto:austinliao1@gmail.com) 
